@@ -3,7 +3,7 @@
 // Class Roll No: 06
 // Week 00
 // Problem: linear_search
-// Description: Mentioned in Week 00.md
+// Description: Mentioned in Week 00 readme.md
 
 
 #include <bits/stdc++.h>
