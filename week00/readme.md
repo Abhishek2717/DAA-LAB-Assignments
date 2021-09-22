@@ -5,9 +5,9 @@ Given an array of integers, design a linear search algorithm and implement it us
 
 # Input Format:
   *The first line contains number of test cases, T.
-  *For each test case, there will be two input lines.
-  *First line contains n (the size of array) and key element.
-  *Second line contains space-separated integers describing array.
+  For each test case, there will be two input lines.
+  First line contains n (the size of array) and key element.
+  Second line contains space-separated integers describing array.
 
 # Output Format:
   *The output will have T number of lines.
