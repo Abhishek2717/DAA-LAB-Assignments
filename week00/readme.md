@@ -4,7 +4,7 @@
 Given an array of integers, design a linear search algorithm and implement it using a program to find whether a given key element is present in the array or not. Also, find the total number of comparisons for each input case. (Time Complexity = O(n), where n is the size of input).
 
 # Input Format:
-  *The first line contains number of test cases, T.
+  The first line contains number of test cases, T.
   For each test case, there will be two input lines.
   First line contains n (the size of array) and key element.
   Second line contains space-separated integers describing array.
